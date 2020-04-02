@@ -5,6 +5,7 @@ The motivation behind this project is to use CRISP-DM methodology to carryout an
 * How does the game affect television viewership?
 * How have viewership, TV ratings, and ad cost evolved over time?
 
+This project is also featured on the Medium website  @ [link](https://medium.com/@iamdeepak42/investing-the-super-bowl-data-over-time-54448b3897d5)
 
 ## Table of contents
 
