@@ -1,9 +1,9 @@
 # An Analysis of the Super Bowl Game Data Over time
 > 
 The motivation behind this project is to use CRISP-DM methodology to carryout an analysis of the 2019 Stack Overflow Developer Survery Data analysis with the aim of uncovering answers to the following crucial questions:
-* What is the programming language of choice?
-* What's the pay for developers like?
-* What is the framework of choice for developers?
+* What are the most extreme game outcomes?
+* How does the game affect television viewership?
+* How have viewership, TV ratings, and ad cost evolved over time?
 
 
 ## Table of contents
